@@ -8,6 +8,6 @@
     "gulp-sass": "^5.0.0",
     "gulp-sourcemaps": "^2.6.0",
     "gulp-util": "^3.0.8",
-    "uswds": "^2.0.0"
+    "uswds": "^2.12.2"
   }
 }
